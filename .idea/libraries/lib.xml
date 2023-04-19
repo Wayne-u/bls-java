@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/j2jutil-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mtj-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/blas-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lapack-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
